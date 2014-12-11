@@ -1,0 +1,58 @@
+div{
+	/*border: 1px solid green;*/
+	margin-top: 5px;
+}
+
+
+.home{
+	text-decoration: none;
+}
+
+.main{
+width: 960px;
+margin: 0 auto;
+}
+
+.logo{
+width: 210px;
+height: 43px;
+float: left;
+line-height: 10px;
+}
+
+.slide1{
+	width: 960px;
+	float: right;
+	margin: 0 auto;
+}
+
+
+.menu{
+list-style: none;
+width: 100%;
+height: 45px;
+float: left;
+font-size: 14px;
+display: table;
+clear: both;
+background: linear-gradient(to bottom, #f99a26 0%, #ef8526 150%)
+}
+
+li{
+list-style: none none;
+float: left;
+margin: 2px;
+font-family: arial;
+height: 100%;
+width: 10%;
+text-decoration: none;
+}
+
+input{
+	float: right;
+}
+
+a{
+	text-decoration: none;
+}
+
